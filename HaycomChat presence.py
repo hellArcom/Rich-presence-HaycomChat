@@ -21,7 +21,7 @@ RPC.update(
     start=start_time,  # Fake timer en vert sur Discord
     buttons=[{
         'label': "Pas encore disponible",  # Texte du bouton
-        'url': 'https://www.google.com'  # https://shattereddisk.github.io/rickroll/rickroll.mp4
+        'url': 'https://www.google.com' # url
     }]
 )
 
